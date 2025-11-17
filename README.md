@@ -7,11 +7,11 @@
   <a href="https://github.com/Luongduytoan2006">
     <img src="https://img.shields.io/badge/-@Luongduytoan2006-181717?style=flat&logo=github" />
   </a>
+    <a href="https://www.facebook.com/duytoan.luong.10/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
   <a href="mailto:luongduytoan2006@gmail.com">
     <img src="https://img.shields.io/badge/-luongduytoan2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/DUONG_LINK_FACEBOOK_CUA_BAN">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
 
