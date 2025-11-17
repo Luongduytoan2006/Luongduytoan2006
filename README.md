@@ -10,6 +10,9 @@
   <a href="mailto:luongduytoan2006@gmail.com">
     <img src="https://img.shields.io/badge/-luongduytoan2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/DUONG_LINK_FACEBOOK_CUA_BAN">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -93,17 +96,30 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luongduytoan2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Luongduytoan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+        alt="Luong Duy Toan's GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luongduytoan2006&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luongduytoan2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Luongduytoan2006&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luongduytoan2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
