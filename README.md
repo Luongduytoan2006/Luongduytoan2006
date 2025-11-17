@@ -21,14 +21,12 @@
 ## 👋 About me
 
 I'm a second-year IT student (Data Science & AI) at **DUT – University of Science and Technology – UD** who enjoys working close to the backend and data layer.  
-Even though I'm still early in my journey, I've had the chance to touch different parts of the stack – from building simple APIs and small web apps to deploying side projects on cloud / VPS providers. I enjoy experimenting with local AI / SLM tools and trying to understand how real systems are designed, not just how to finish assignments or pass exams.
+Even though I'm still early in my journey, I try to understand a little more each day than I did yesterday – even if it's just one new idea, a small experiment or a few lines of documentation. I enjoy experimenting with local AI / SLM tools and trying to understand how real systems are designed, not just how to finish assignments or pass exams.
 
 One day I hope something I build will be genuinely useful for other people – not just sit in my GitHub as another unfinished side project 😄
 
 - 💻 Currently learning and focusing on **backend development** with Node.js / TypeScript, Express and Nitro  
-- 🗄 Using **Supabase** as my main data platform and exploring different ways to model and query data  
 - 🧠 Trying out **RAG systems**, **Python + Flask** and local AI tools to build small personal assistants and automation  
-- ☁️ Deploying personal projects on **Google Cloud**, **DigitalOcean** and **Vultr** at a beginner level to get used to real environments  
 - 🧩 Enjoy solving problems, building side projects and learning from real-world systems  
 - ☕ Usually coding late at night with some coffee and music
 
@@ -121,9 +119,7 @@ One day I hope something I build will be genuinely useful for other people – n
 - 🤝 Happy to collaborate on:
   - Backend services & RESTful APIs
   - AI / DS demo projects
-  - Useful tools or fun side projects
-
-📫 **Contact:** `luongduytoan2006@gmail.com`
+  - Useful tools or fun side project
 
 ---
 
