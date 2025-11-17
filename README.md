@@ -19,59 +19,74 @@
 - 🎓 Information Technology – **Data Science & AI** student at **DUT – University of Science and Technology – UD**
 - 💻 Interested in **Backend Development**, **Web technologies** and **Artificial Intelligence**
 - 🧩 Enjoy solving problems, building side projects and learning from real-world systems
-- ☕ Usually coding at night with some music and coffee
+- ☕ Usually coffee code and code at night with some music
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
+### 🧮 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,js,ts,java,cpp" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Backend Frameworks
+### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Nitro-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 
-_Gin / Fiber / Echo (Go) fans are also welcome here 😄_
-
-### 🗄 Databases
+### 🗄 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🧰 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🧰 IDEs & Editors
+### 🧑‍💻 IDEs & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=goland,vscode,pycharm" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
 </p>
+
 
 ---
 
 ## 🚀 Experience & Activities
 
-- 🧑‍💻 **Backend Intern @ THECODEORIGIN**  
-  Working with **Node.js / TypeScript / Nitro**, building and maintaining backend services, fixing bugs and improving APIs.
+- 🧑‍💻 **Backend Engineer Intern @ THECODEORIGIN**  
+  Contributing to backend development using **Node.js**, **TypeScript** and **Nitro**.  
+  Working on building and maintaining APIs, handling bug fixes, refactoring code and improving performance and developer experience.
 
-- 🧠 **AI & DS learner**  
-  Exploring machine learning, data processing and how to bring AI into real products.
+- 🧠 **AI & Data Science Enthusiast**  
+  Exploring machine learning, data processing and how to ship AI into real-world applications.  
+  Building small **local AI / Small Language Model (SLM)** projects (local assistants, automation tools, experiment playgrounds, etc.) to understand infrastructure and productization, not just theory.
 
-- 👥 **Community & Clubs**  
-  Joining tech communities, workshops and coding contests to learn from other developers.
+- 👥 **Tech Communities & Events**  
+  Actively joining tech communities, workshops and coding contests to learn from other developers, share knowledge and stay up-to-date with new technologies.
 
 ---
 
-## 🏅 Some Highlights
+## 🏅 Highlights
 
-- Competitive programming & coding contests
-- Projects around backend services and web applications
-- Nearly **1000+ contributions in the last year** on GitHub  
+- Hands-on projects around **backend services** and **web applications**
+- Personal **AI mini-products** using local models / SLMs
+- Competitive programming and coding contests at the student level
+- Nearly **1,000 contributions in the last year** on GitHub  
   > Consistency over perfection 💪
 
 ---
