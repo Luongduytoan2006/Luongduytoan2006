@@ -19,10 +19,14 @@
 
 ## 👋 About me
 
-- 🎓 Information Technology – **Data Science & AI** student at **DUT – University of Science and Technology – UD**
-- 💻 Interested in **Backend Development**, **Web technologies** and **Artificial Intelligence**
-- 🧩 Enjoy solving problems, building side projects and learning from real-world systems
-- ☕ Usually coffee code and code at night with some music
+I'm an IT student (Data Science & AI) at **DUT – University of Science and Technology – UD** who enjoys working close to the backend and data layer.  
+I like building small but practical products, experimenting with local AI / SLM tools, and learning how real systems are designed – not just how to pass assignments.
+
+- 💻 Currently focusing on **backend development** with Node.js / TypeScript, Express and Nitro  
+- 🗄 Using **Supabase** as my main data platform and trying out different ways to model and query data  
+- 🧠 Experimenting with **RAG systems**, **Python + Flask** and local AI tools to build personal assistants and automation  
+- 🧩 Enjoy solving problems, building side projects and learning from real-world systems  
+- ☕ Usually coding late at night with some coffee and music
 
 ---
 
@@ -53,9 +57,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" />
+</p>
+
 ### 🗄 Database & Platform
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
@@ -63,6 +73,7 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🧑‍💻 IDEs & Editors
@@ -70,6 +81,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
 </p>
+
 
 ---
 
@@ -95,40 +107,6 @@
 - Competitive programming and coding contests at the student level
 - Nearly **1,000 contributions in the last year** on GitHub  
   > Consistency over perfection 💪
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td width="50%">
-      <!-- Tổng quan: stars, commits, PRs, issues -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Luongduytoan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-        alt="Luong Duy Toan's GitHub Stats"
-      />
-    </td>
-    <td width="40%">
-      <!-- Ngôn ngữ hay dùng -->
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luongduytoan2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <!-- Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Luongduytoan2006&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
 
 ---
 
