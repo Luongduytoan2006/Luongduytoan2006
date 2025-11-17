@@ -5,26 +5,38 @@
 
 <p align="center">
   <a href="https://github.com/Luongduytoan2006">
-    <img src="https://img.shields.io/badge/-@Luongduytoan2006-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github" />
   </a>
     <a href="https://www.facebook.com/duytoan.luong.10/">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:luongduytoan2006@gmail.com">
-    <img src="https://img.shields.io/badge/-luongduytoan2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/XXXXXXXX?v=4"
+    width="140"
+    style="border-radius:50%;"
+    alt="Luong Duy Toan"
+  />
 </p>
 
 ---
 
 ## 👋 About me
 
-I'm an IT student (Data Science & AI) at **DUT – University of Science and Technology – UD** who enjoys working close to the backend and data layer.  
-I like building small but practical products, experimenting with local AI / SLM tools, and learning how real systems are designed – not just how to pass assignments.
+I'm a second-year IT student (Data Science & AI) at **DUT – University of Science and Technology – UD** who enjoys working close to the backend and data layer.  
+Even though I'm still early in my journey, I've had the chance to touch different parts of the stack – from building simple APIs and small web apps to deploying side projects on cloud / VPS providers. I enjoy experimenting with local AI / SLM tools and trying to understand how real systems are designed, not just how to finish assignments or pass exams.
 
-- 💻 Currently focusing on **backend development** with Node.js / TypeScript, Express and Nitro  
-- 🗄 Using **Supabase** as my main data platform and trying out different ways to model and query data  
-- 🧠 Experimenting with **RAG systems**, **Python + Flask** and local AI tools to build personal assistants and automation  
+One day I hope something I build will be genuinely useful for other people – not just sit in my GitHub as another unfinished side project 😄
+
+- 💻 Currently learning and focusing on **backend development** with Node.js / TypeScript, Express and Nitro  
+- 🗄 Using **Supabase** as my main data platform and exploring different ways to model and query data  
+- 🧠 Trying out **RAG systems**, **Python + Flask** and local AI tools to build small personal assistants and automation  
+- ☁️ Deploying personal projects on **Google Cloud**, **DigitalOcean** and **Vultr** at a beginner level to get used to real environments  
 - 🧩 Enjoy solving problems, building side projects and learning from real-world systems  
 - ☕ Usually coding late at night with some coffee and music
 
@@ -87,25 +99,26 @@ I like building small but practical products, experimenting with local AI / SLM 
 
 ## 🚀 Experience & Activities
 
-- 🧑‍💻 **Backend Engineer Intern @ THECODEORIGIN**  
-  Contributing to backend development using **Node.js**, **TypeScript** and **Nitro**.  
-  Working on building and maintaining APIs, handling bug fixes, refactoring code and improving performance and developer experience.
+- 🧑‍💻 **Backend Intern @ THECODEORIGIN**  
+  Learning backend development using **Node.js**, **TypeScript** and **Nitro**.  
+  Supporting the team with simple APIs, bug fixing and small refactors, and getting used to real-world workflows, code review and deployment.
 
 - 🧠 **AI & Data Science Enthusiast**  
-  Exploring machine learning, data processing and how to ship AI into real-world applications.  
-  Building small **local AI / Small Language Model (SLM)** projects (local assistants, automation tools, experiment playgrounds, etc.) to understand infrastructure and productization, not just theory.
+  Exploring machine learning, data processing and how to bring AI into real applications at a small scale.  
+  Building **local AI / Small Language Model (SLM)** mini projects (local assistants, automation tools, experiment playgrounds, etc.) to understand infrastructure and productization, not just theory.
 
-- 👥 **Tech Communities & Events**  
-  Actively joining tech communities, workshops and coding contests to learn from other developers, share knowledge and stay up-to-date with new technologies.
+- 👥 **Communities & Events**  
+  Active in **GDSC-DUT (Google Developer Student Clubs)** and online tech communities.  
+  I regularly join Google developer events, workshops and coding contests to learn from other developers, share experiences and stay up-to-date with new technologies.
 
 ---
 
 ## 🏅 Highlights
 
-- Hands-on projects around **backend services** and **web applications**
-- Personal **AI mini-products** using local models / SLMs
-- Competitive programming and coding contests at the student level
-- Nearly **1,000 contributions in the last year** on GitHub  
+- Small hands-on projects around **backend services** and **web applications**
+- Personal **AI mini-products** using local models / SLMs (local assistants, tools, experiments)
+- Competitive programming and coding contests at the student level (ICPC)
+- Trying to keep a **consistent contribution streak** on GitHub  
   > Consistency over perfection 💪
 
 ---
