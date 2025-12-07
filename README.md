@@ -61,9 +61,9 @@ One day I hope something I build will be genuinely useful for other people – n
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ### 🗄 Database & Platform
@@ -83,7 +83,6 @@ One day I hope something I build will be genuinely useful for other people – n
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
 </p>
-
 
 ---
 
@@ -122,6 +121,17 @@ One day I hope something I build will be genuinely useful for other people – n
   - Useful tools or fun side project
 
 ---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Luongduytoan2006">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luongduytoan2006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luongduytoan2006&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
+---
+
 
 <p align="center">
   <i>“Code. Learn. Share.”</i>
