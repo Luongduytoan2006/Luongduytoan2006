@@ -121,16 +121,6 @@ One day I hope something I build will be genuinely useful for other people – n
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luongduytoan2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luongduytoan2006&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
-
 <p align="center">
   <i>“Code. Learn. Share.”</i>
 </p>
