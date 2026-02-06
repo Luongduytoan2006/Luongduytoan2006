@@ -29,7 +29,7 @@ One day I hope something I build will be genuinely useful for other people :v no
 - 🧩 Enjoy solving problems, building side projects and learning from real-world systems  
 - ☕ Usually coding with some coffee and music
 - 🎮 **Gaming:** When I'm not coding, you can find me climbing ranks in **Arena of Valor (Liên Quân)**, dropping into **PUBG Mobile**, or strategizing in **TFT (Teamfight Tactics)** 
-// Genshin Impact (Asia Server UID: 886179761) 🐧🐧🐧 
+// **Genshin Impact (Asia Server UID: 886179761)** 🐧🐧🐧 
 
 ---
 
