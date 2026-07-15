@@ -22,16 +22,20 @@
 
 ## 👋 About me
 
-I'm a **third-year IT student (Data Science & AI)** at **DUT – University of Science and Technology – UD** who enjoys building things across **software engineering and AI**.
+I'm a **third-year IT student (Data Science & AI)** at **DUT – University of Science and Technology – UD** who enjoys building things across **Software Engineering and Artificial Intelligence**.
 
-Even though I'm still early in my journey, I try to understand a little more each day than I did yesterday – even if it's just one new idea, a small experiment or a few lines of documentation.
+For me, it's not just about writing code or training a model in isolation. My goal is to be **an engineer** and **a system designer** who sees the "big picture" and the entire lifecycle of a product—**from designing the initial architecture, to building it, and finally deploying and operating it in the real world.** *(And my ultimate life goal? Hitting a salary of 3.6 billion VND a year and retiring early... just kidding :v).*
+
+My philosophy is simple: **to build, you must understand; to understand, you must know; to know, you must tinker; and to tinker, you just have to start learning.** 
+
+Even though I'm still early in my journey, I try to understand a little more each day than I did yesterday – even if it's just one new idea, a small experiment, or a few lines of documentation. 
 
 One day I hope something I build will be genuinely useful for other people :v not just sit in my GitHub as another unfinished side project 😄
 
 - 💻 Currently focusing on **software engineering & system design** — how to structure a project so it stays clean as it grows
-- 🧠 Exploring **AI Engineering** — agents, real-world AI applications and workflow design. I like understanding how models work under the hood and wiring them into real products
-- 🧩 Enjoy solving problems, building side projects and learning from real-world systems
-- ☕ Usually coding with some coffee and music
+- 🧠 Exploring **AI Systems & MLOps** — focusing on RAG architectures, Agentic AI, and the full lifecycle of a model. I like understanding how models work under the hood and wiring them into real products
+- 🧩 **System-Level Problem Solving**: I enjoy the puzzle of connecting different pieces—like tying a robust backend to an intelligent AI module—and learning best by getting my hands dirty with real-world, complex architectures.
+- ☕ Usually coding with some **coffee** and music
 - 🎮 **Gaming:** When I'm not coding, you can find me climbing ranks in **Arena of Valor (Liên Quân)**, dropping into **PUBG Mobile**, or strategizing in **TFT (Teamfight Tactics)** // **Genshin Impact (Asia Server UID: 886179761)** 🐧🐧🐧
 
 ---
@@ -120,7 +124,7 @@ One day I hope something I build will be genuinely useful for other people :v no
 
 - 🧱 **Software design & architecture** — structuring projects to stay clean as they scale
 - 🤖 **AI agents & workflow design** — building real-world AI applications, not just demos
-- 👁️ **Computer Vision** — CNNs and hands-on experiments
+- 🚀 **Deployment & Operations (DevOps/MLOps):** Currently learning how to effectively deploy, orchestrate, and operate systems in real-world environments.
 
 ---
 
